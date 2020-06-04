@@ -115,7 +115,6 @@ class _SettingsState extends State<Settings>{
                             alignment: Alignment.centerLeft,
                             child: Text(
                               "Emergency Contact",
-//                              textAlign: TextAlign.left,
                             ),
                           ),
                           Padding(
