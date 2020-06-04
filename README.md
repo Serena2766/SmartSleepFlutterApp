@@ -1,7 +1,9 @@
-# smart_sleep_flutter_app
+# Smart Sleep Flutter App
 
-A new Flutter application.
+My first Flutter application by self-learning in a week
 
+## A demo of the App
+![Alt Text](https://github.com/Serena2766/SmartSleepFlutterApp/blob/master/smart-sleep-demo-gif.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
