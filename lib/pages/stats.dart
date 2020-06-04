@@ -205,7 +205,6 @@ class _StatsState extends State<Stats>{
               '\n    Hello, Terak.',
               style: TextStyle(
                 fontSize: 20.0,
-//              fontWeight: FontWeight.bold,
                 fontFamily: 'LibreBaskerville',
               ),
             ),
